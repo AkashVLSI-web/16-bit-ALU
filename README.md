@@ -21,5 +21,5 @@ This repository contains a Verilog implementation of a 16-bit ALU (Arithmetic Lo
 
 ---
 
-## 📂 Repository Structure
+
 
